@@ -1,10 +1,8 @@
 <body>
 <div align="center">
 <img src="https://github.com/itsmiuwu/itsmiuwu/assets/124086216/c09dc6ed-f23c-4539-b467-43143539ff8a">
-
-
 </div>
-  
+<br><br><br><br>
 <div>
 <table align="left">
   <tr>
