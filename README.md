@@ -45,7 +45,7 @@
 Eu gosto muito de aprender coisas novas, atualmente essas são as skills que eu estou mais familiarizada! Gosto de procurar soluções criativas para desafios de programação. Aqui você encontrará meu portfólio de projetos, onde eu compartilho meu trabalho e paixão pela programação. Sempre em busca de aprender e evoluir no mundo da tecnologia!
 </p>
 <br>
-     <h2 align="center">✦✦✦</h2>
+     <h2 align="center">✦𝙲𝚞𝚛𝚒𝚘𝚜𝚒𝚍𝚊𝚍𝚎𝚜✦</h2>
 <br>
 <p>
 <div align="center">
