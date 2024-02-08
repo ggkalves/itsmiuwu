@@ -1,14 +1,11 @@
 <body>
-    <div id="Header" align="center">
-    <img src="https://github.com/itsmiuwu/itsmiuwu/assets/124086216/c09dc6ed-f23c-4539-b467-43143539ff8a">
-    </div>
-
+   
 <br><br>
 
 <div>
 <h2 align="center"> ✦ 𝚂𝚘𝚋𝚛𝚎 𝚖𝚒𝚖 ✦ </h2>
   <div align="center">
-<img src="https://pbs.twimg.com/media/F4Sq2xeWcAA8_kL.png" width="200" height="200" align="right">
+
   </div>
 <br><br>
 <li>
@@ -30,7 +27,7 @@
 
 <p>
   <div align="center">
-<img src="https://pbs.twimg.com/media/F0JKN8cXwAELFGF.png" width="170" height="170" align="left">
+
   </div>
 </div>
 <div>
@@ -49,7 +46,7 @@ Eu gosto muito de aprender coisas novas, atualmente essas são as skills que eu 
 <br>
 <p>
 <div align="center">
-<img src="https://pbs.twimg.com/media/F0cOd7NWwAAxa6F.png" width="170" height="170" align="right">
+
 </div>
 
 <div>
